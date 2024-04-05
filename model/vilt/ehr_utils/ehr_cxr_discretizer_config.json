@@ -1,0 +1,37 @@
+{
+  "ts_variables": [
+    "Diastolic blood pressure",
+    "Glucose",
+    "HDL",
+    "HbA1c",
+    "Heart Rate",
+    "Height",
+    "LDL",
+    "Respiratory rate",
+    "Systolic blood pressure",
+    "Temperature",
+    "Triglyceride",
+    "Urine output",
+    "Weight"    
+  ],
+  "non_ts_variables": [
+    "gender",
+    "age",
+    "family_history"
+  ],
+  "normal_values": {
+    "Diastolic blood pressure": "59.0",
+    "Glucose": "128.0",
+    "HDL": "55.0",
+    "HbA1c": "6.5",    
+    "Heart Rate": "86.0",
+    "Height": "170.0",
+    "LDL": "90.0",
+    "Respiratory rate": "19.0",
+    "Systolic blood pressure": "118.0",
+    "Temperature": "37.0",
+    "Triglyceride": "80.0",
+    "Urine output": "81.8",
+    "Weight": "80.0"    
+  }
+}
