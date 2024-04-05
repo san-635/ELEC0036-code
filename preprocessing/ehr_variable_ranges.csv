@@ -1,0 +1,14 @@
+LEVEL2,LEVEL1,OUTLIER LOW,VALID LOW,IMPUTE,VALID HIGH,OUTLIER HIGH
+Diastolic blood pressure,,0,0,59,375,375
+Glucose,,0,33,128,2000,2200
+HbA1c,,0,3,6.5,15,20
+HDL,,0,0,55,150,170
+Heart rate,,0,0,86,350,390
+Height,,0,0,170,240,275
+LDL,,0,0,90,250,1000
+Respiratory rate,,0,0,19,300,330
+Systolic blood pressure,,0,0,118,375,375
+Temperature,,14.2,26,37,45,47
+Triglycerides,,0,0,80,1200,2400
+Weight,,0,0,80,200,250
+Urine output,,0,0,81.8,250,250
